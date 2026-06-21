@@ -196,8 +196,8 @@ p {
 h1 {
   max-width: 720px;
   margin-bottom: 24px;
-  font-size: clamp(64px, 11vw, 126px);
-  line-height: 0.84;
+  font-size: clamp(48px, 5.6vw, 66px);
+  line-height: 0.88;
   letter-spacing: 0;
   text-transform: uppercase;
 }
@@ -666,7 +666,7 @@ h1 {
   }
 
   h1 {
-    font-size: clamp(52px, 18vw, 84px);
+    font-size: clamp(44px, 15vw, 70px);
   }
 
   .hero-lede,
